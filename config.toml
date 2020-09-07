@@ -1,5 +1,5 @@
 theme = "hugo-theme-detox"
-baseURL = "http://the-science-of-dating.netlify.app/"
+baseURL = "https://the-science-of-dating.netlify.app/"
 languageCode = "en-us"
 title = "The Science of Dating"
 
