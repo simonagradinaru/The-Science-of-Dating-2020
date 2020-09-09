@@ -4,9 +4,22 @@
 {{ `<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->` | safeHTML }}
 {{ `<!--[if gt IE 8]><!-->` | safeHTML }}<html class="no-js" prefix="og: http://ogp.me/ns#" xmlns:og="http://ogp.me/ns#">{{ `<!--<![endif]-->` | safeHTML }}
 
+{{ define "main" }}
+<main>
+	<article>
+		<header>
+          ...
+        </header>	
+          ...
+		<footer>
+          ...
+		</footer>
+	</article>
+</main>
+
 {{ partial "head.html" . }}
 <body>
-{{ `<!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chrome/‎">install Google Chrome</a> to experience this site.</p><![endif]-->` | safeHTML }}
+{{ `<!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chrome/">install Google Chrome</a> to experience this site.</p><![endif]-->` | safeHTML }}
 
 {{ partial "header.html" . }}
 <main class="content" role="main">
@@ -16,6 +29,8 @@
 </main>
 {{ partial "footer.html" . }}
 {{ partial "google_analytics.html" . }}
+{{ partial "socialshare.html" . }}
+{{ end }}
 
 </body>
 </html>
