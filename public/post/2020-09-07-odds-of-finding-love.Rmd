@@ -4,6 +4,9 @@ author: "Simona Gradinaru"
 date: 2020-09-07T21:13:14-05:00
 categories: ["R"]
 tags: ["R Blogdown, R Markdown", "ggplot2"]
+output: 
+  html_document:
+    css: /css/main.css
 ---
 
 ```{r setup, include=FALSE}
@@ -14,7 +17,7 @@ Dating has drastically changed over the last decades. The modern world now provi
 
 Working with data scientists from eHarmony, an online dating website, experts from University of Bath  calculated that singletons have a **1 in 562 chance of finding love on any given day**, considering they leave it entirely to fate. This was based on 18 key factors, such as desired age, physical attractiveness, moral outlook or taste in music, which impact on the number of romantic options available to singles. 
 
-Almost insignificant, right? To put that in perspective, there's a **1 in 55 chance of becoming a millionaire** if you're under 40 , **1 in 100 chance of being ambidextrous** and roughly a **1 in 400 trillion chance of you being born**. If it's a miracle that you exist today, finding love should be piece of cake, right?
+Almost insignificant, right? To put that in perspective, there's a **1 in 55 chance of becoming a millionaire** if you're under 40, a **1 in 100 chance of being ambidextrous** and roughly a **1 in 400 trillion chance of you being born**. If it's a miracle that you exist today, finding love should be piece of cake, right?
 
 Don't despair! Even though the odds may seem rather against your favor, they actually reveal that you can find your match after each 562 people you meet. They also have to like you back, don't they?
 
