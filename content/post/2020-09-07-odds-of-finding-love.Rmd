@@ -3,9 +3,6 @@ title: "You can't put a number to love, but researchers estimated one"
 date: "2020-09-07"
 categories: ["R"]
 tags: ["R Blogdown, R Markdown", "ggplot2"]
-output: 
-  html_document:
-    css: "/css/main.css"
 ---
 
 ```{r setup, include=FALSE}
