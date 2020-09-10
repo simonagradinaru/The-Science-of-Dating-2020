@@ -6,6 +6,7 @@ googleAnalytics = "UA-177543919-1"
 
 [Params]
   description = "Data-proven Insights from 21st Century Dating"
+  custom_css = "css/main.css"
   
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -26,7 +27,7 @@ googleAnalytics = "UA-177543919-1"
     smartypantsQuotesNBSP = false
     taskLists = true
     
-      [markup.highlight]
+  [markup.highlight]
     codeFences = true
     guessSyntax = false
     hl_Lines = ""
