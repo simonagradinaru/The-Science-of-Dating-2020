@@ -20,7 +20,7 @@
                 <p>Words and charts by {{ index .Site.Params "author" }}</p>
             </section>
             {{ end }}
-            
+           
             <p class="f-post-time"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time></p>
         </section>
                         
@@ -48,6 +48,7 @@
             	</span>
             {{ end }}
         </section>
-        {{ partial "disqus.html" . }}        
+        {{ partial "disqus.html" . }}
+        {{ .ReadingTime }}min
     </footer>
 </article>
