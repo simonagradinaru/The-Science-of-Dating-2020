@@ -1,0 +1,41 @@
+
+theme = "hugo-theme-detox"
+baseURL = "https://the-science-of-dating.netlify.app/"
+languageCode = "en-us"
+title = "The Science of Dating"
+
+[Params]
+  author = "Simona Gradinaru"
+  description = "Data-proven Insights from 21st Century Dating"
+  dateFormat = "2020-01-01"
+  custom_css = "css/main.css"
+  
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  
+  [markup.blackFriday]
+    angledQuotes = false
+    footnoteAnchorPrefix = ""
+    footnoteReturnLinkContents = ""
+    fractions = true
+    hrefTargetBlank = false
+    latexDashes = true
+    nofollowLinks = false
+    noreferrerLinks = false
+    plainIDAnchors = true
+    skipHTML = false
+    smartDashes = true
+    smartypants = true
+    smartypantsQuotesNBSP = false
+    taskLists = true
+    
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
