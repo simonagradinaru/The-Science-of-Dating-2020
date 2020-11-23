@@ -42,13 +42,16 @@ title = "The Science of Dating"
 
 [menu]
   [[menu.main]]
-    identifier = "post"
-    name = "Posts"
+    name = "Home"
     url = "/"
+    weight = 1
+        
+  [[menu.main]]
+    name = "Posts"
+    url = "/post"
     weight = 1
 
 [[menu.main]]
-    identifier = "tags"
     name = "Tags"
-    url = "/tags/"
+    url = "/tags"
     weight = 2

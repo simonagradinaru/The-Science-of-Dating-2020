@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on The Science of Dating</title>
-    <link>https://the-science-of-dating.netlify.app/categories/r/</link>
+    <link>/categories/r/</link>
     <description>Recent content in R on The Science of Dating</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://the-science-of-dating.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>People use online dating platforms just for fun, *but lying is fun too*</title>
-      <link>https://the-science-of-dating.netlify.app/post/2020-11-20-reasons-for-using-and-lying-in-online-dating/</link>
+      <link>/post/2020-11-20-reasons-for-using-and-lying-in-online-dating/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://the-science-of-dating.netlify.app/post/2020-11-20-reasons-for-using-and-lying-in-online-dating/</guid>
+      <guid>/post/2020-11-20-reasons-for-using-and-lying-in-online-dating/</guid>
       <description>Dating has drastically changed over the last decades. Technology nowadays provides more convenient ways to find love, available across multiple devices and at any time of the day. Online dating provides users an ideal place to meet similar people and an algorithm that brings you closer to your “The one”, if one could put his faith in an app.
 We are now turning to our devices for a variety of activities, from work, shop, and play, to managing our personal lives and relationships.</description>
     </item>
     
     <item>
       <title>Are we chasing people &#39;out of our league&#39;?</title>
-      <link>https://the-science-of-dating.netlify.app/post/2020-10-05-aspirational-dating/</link>
+      <link>/post/2020-10-05-aspirational-dating/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://the-science-of-dating.netlify.app/post/2020-10-05-aspirational-dating/</guid>
+      <guid>/post/2020-10-05-aspirational-dating/</guid>
       <description>Some people find the odds of 1 in 562 being unrealistically low. Others found themselves luckier than that and already have beat the odds. But there’s a bunch of other things that you need to know before jumping to conclusions.
 Are you looking for someone who’s ‘out of your league’? If so, you may have already found yourself out of hope when looking for ‘the one’. You may not be the only one having this problem, since it seems like a lot of people are dating aspirationally.</description>
     </item>
     
     <item>
       <title>You can&#39;t put a number to love, but researchers estimated one</title>
-      <link>https://the-science-of-dating.netlify.app/post/2020-09-11-you-can-t-put-a-number-to-love-but-researchers-estimated-one/</link>
+      <link>/post/2020-09-11-you-can-t-put-a-number-to-love-but-researchers-estimated-one/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://the-science-of-dating.netlify.app/post/2020-09-11-you-can-t-put-a-number-to-love-but-researchers-estimated-one/</guid>
+      <guid>/post/2020-09-11-you-can-t-put-a-number-to-love-but-researchers-estimated-one/</guid>
       <description>Dating has drastically changed over the last decades. The modern world now provides new ways to find love, such as online matchmaking and speed dating. Although it’s tough to put a number to love, have you ever wondered what are the odds of finding love?
 Working with data scientists from eHarmony, an online dating website, experts from University of Bath calculated that singletons have a 1 in 562 chance of finding love on any given day, considering they leave it entirely to fate.</description>
     </item>
     
     <item>
       <title>A warm welcome to everyone who&#39;s curious</title>
-      <link>https://the-science-of-dating.netlify.app/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://the-science-of-dating.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>Hello there! A warm welcome to everyone who’s passionate about science or simply curious about… dating! I am thrilled to have you around and I’ll do my best on keeping you reading further. Warning! There’s more to come!
 If you’re intrigued about who’s behind the scenes, let me introduce myself. I’m Simona Gradinaru, currently a PhD Candidate in Social Sciences at ASE and a full-time Data Scientist at YouGov, living in Bucharest, Romania.</description>
     </item>
