@@ -4,7 +4,7 @@ date: '2020-11-20'
 categories: ["R"]
 tags: ["R Blogdown, R Markdown", "ggplot2"]
 ---
-[^but lying is fun too]: but lying is fun to
+
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(collapse = TRUE, out.width = "100%")
