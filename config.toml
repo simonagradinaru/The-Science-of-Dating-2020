@@ -3,7 +3,6 @@ theme = "hugo-theme-detox"
 baseURL = "https://the-science-of-dating.netlify.app/"
 languageCode = "en-us"
 title = "The Science of Dating"
-sectionPagesMenu = "main"
 
 [Params]
   author = "Simona Gradinaru"
@@ -40,3 +39,16 @@ sectionPagesMenu = "main"
     noClasses = true
     style = "monokai"
     tabWidth = 4
+
+[menu]
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
